@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+Datos/VW_VOTARON_2020PLEB_Datos completos.csv
